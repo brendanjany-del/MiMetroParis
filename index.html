@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi-Chemin Paris - Trouvez votre point de rencontre en métro</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <header>
+        <h1>Mi-Chemin Paris</h1>
+        <p class="subtitle">Trouvez le point de rencontre idéal en métro & RER</p>
+    </header>
+
+    <main>
+        <section class="search-panel">
+            <div class="input-group">
+                <label for="address-a">
+                    <span class="marker-dot marker-a"></span>
+                    Adresse du point A
+                </label>
+                <div class="autocomplete-wrapper">
+                    <input type="text" id="address-a" placeholder="Ex : 10 rue de Rivoli, Paris" autocomplete="off" />
+                    <ul class="autocomplete-list" id="suggestions-a"></ul>
+                </div>
+            </div>
+
+            <div class="input-group">
+                <label for="address-b">
+                    <span class="marker-dot marker-b"></span>
+                    Adresse du point B
+                </label>
+                <div class="autocomplete-wrapper">
+                    <input type="text" id="address-b" placeholder="Ex : 25 boulevard Saint-Germain, Paris" autocomplete="off" />
+                    <ul class="autocomplete-list" id="suggestions-b"></ul>
+                </div>
+            </div>
+
+            <button id="btn-search" disabled>
+                <span class="btn-text">Trouver le mi-chemin</span>
+                <span class="btn-loading" hidden>
+                    <span class="spinner"></span>
+                    Calcul en cours...
+                </span>
+            </button>
+
+            <div id="error-message" class="error-message" hidden></div>
+        </section>
+
+        <div id="map"></div>
+
+        <section id="results-panel" class="results-panel" hidden>
+            <h2>Point de rencontre</h2>
+            <div id="meeting-points"></div>
+
+            <div class="itineraries">
+                <div class="itinerary" id="itinerary-a">
+                    <h3><span class="marker-dot marker-a"></span> Itinéraire A</h3>
+                    <div class="itinerary-steps"></div>
+                </div>
+                <div class="itinerary" id="itinerary-b">
+                    <h3><span class="marker-dot marker-b"></span> Itinéraire B</h3>
+                    <div class="itinerary-steps"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Données : OpenStreetMap & RATP/IDFM | Mi-Chemin Paris &copy; 2025</p>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/metro-data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
