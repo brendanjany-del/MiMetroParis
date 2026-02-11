@@ -1,0 +1,6521 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API via RATP Open Data",
+  "osm3s": {
+    "timestamp_osm_base": "2026-02-11T00:00:00Z",
+    "copyright": "Data from RATP Open Data, formatted as OSM-style JSON"
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 9000001,
+      "lat": 48.8775512518,
+      "lon": 2.28316224223,
+      "tags": {
+        "name": "Porte Maillot",
+        "name:fr": "Porte Maillot",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000025,
+      "lat": 48.8755940499,
+      "lon": 2.28932258961,
+      "tags": {
+        "name": "Argentine",
+        "name:fr": "Argentine",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "25",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000054,
+      "lat": 48.8524794228,
+      "lon": 2.36932058493,
+      "tags": {
+        "name": "Bastille",
+        "name:fr": "Bastille",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "54",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000065,
+      "lat": 48.8454707076,
+      "lon": 2.42920516635,
+      "tags": {
+        "name": "Bérault",
+        "name:fr": "Bérault",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "65",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000144,
+      "lat": 48.8679053449,
+      "lon": 2.31354554995,
+      "tags": {
+        "name": "Champs-Élysées-Clémenceau",
+        "name:fr": "Champs-Élysées-Clémenceau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "144",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000152,
+      "lat": 48.8751498197,
+      "lon": 2.29590490608,
+      "tags": {
+        "name": "Charles De Gaulle-Étoile",
+        "name:fr": "Charles De Gaulle-Étoile",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "152",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000160,
+      "lat": 48.8444563946,
+      "lon": 2.44043997806,
+      "tags": {
+        "name": "Château de Vincennes",
+        "name:fr": "Château de Vincennes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "160",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000166,
+      "lat": 48.8587991981,
+      "lon": 2.34730585275,
+      "tags": {
+        "name": "Châtelet",
+        "name:fr": "Châtelet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "166",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000199,
+      "lat": 48.8662858046,
+      "lon": 2.32294341224,
+      "tags": {
+        "name": "Concorde",
+        "name:fr": "Concorde",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "199",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000269,
+      "lat": 48.8886312178,
+      "lon": 2.24793243532,
+      "tags": {
+        "name": "Esplanade de la Défense",
+        "name:fr": "Esplanade de la Défense",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "269",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000293,
+      "lat": 48.8698082202,
+      "lon": 2.30747079345,
+      "tags": {
+        "name": "Franklin D.Roosevelt",
+        "name:fr": "Franklin D.Roosevelt",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "293",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000329,
+      "lat": 48.8720238095,
+      "lon": 2.30056045125,
+      "tags": {
+        "name": "George-V",
+        "name:fr": "George-V",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "329",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000352,
+      "lat": 48.8574779825,
+      "lon": 2.35157756299,
+      "tags": {
+        "name": "Hôtel de Ville",
+        "name:fr": "Hôtel de Ville",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "352",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000414,
+      "lat": 48.8921870764,
+      "lon": 2.2370180564,
+      "tags": {
+        "name": "La Défense - Grande Arche",
+        "name:fr": "La Défense - Grande Arche",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "414",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000463,
+      "lat": 48.8811915206,
+      "lon": 2.27168672105,
+      "tags": {
+        "name": "Les Sablons (Jardin d'acclimatation)",
+        "name:fr": "Les Sablons (Jardin d'acclimatation)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "463",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000481,
+      "lat": 48.8608062913,
+      "lon": 2.34110859163,
+      "tags": {
+        "name": "Louvre-Rivoli",
+        "name:fr": "Louvre-Rivoli",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "481",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000583,
+      "lat": 48.8475793675,
+      "lon": 2.39555451217,
+      "tags": {
+        "name": "Nation",
+        "name:fr": "Nation",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "583",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000618,
+      "lat": 48.8623480308,
+      "lon": 2.33649646231,
+      "tags": {
+        "name": "Palais Royal-Musée du Louvre",
+        "name:fr": "Palais Royal-Musée du Louvre",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "618",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000669,
+      "lat": 48.8847082013,
+      "lon": 2.26051507789,
+      "tags": {
+        "name": "Pont de Neuilly (Avenue de Madrid)",
+        "name:fr": "Pont de Neuilly (Avenue de Madrid)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "669",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000702,
+      "lat": 48.8471584794,
+      "lon": 2.41014036797,
+      "tags": {
+        "name": "Porte de Vincennes",
+        "name:fr": "Porte de Vincennes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "702",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000734,
+      "lat": 48.8473037861,
+      "lon": 2.38634170635,
+      "tags": {
+        "name": "Reuilly-Diderot",
+        "name:fr": "Reuilly-Diderot",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "734",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000772,
+      "lat": 48.8463569889,
+      "lon": 2.41947990037,
+      "tags": {
+        "name": "Saint-Mandé",
+        "name:fr": "Saint-Mandé",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "772",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000777,
+      "lat": 48.8552362528,
+      "lon": 2.36095648866,
+      "tags": {
+        "name": "Saint-Paul (le Marais)",
+        "name:fr": "Saint-Paul (le Marais)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "777",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000864,
+      "lat": 48.8643437787,
+      "lon": 2.33012987711,
+      "tags": {
+        "name": "Tuileries",
+        "name:fr": "Tuileries",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "864",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000962,
+      "lat": 48.8460276494,
+      "lon": 2.37496291887,
+      "tags": {
+        "name": "Gare de Lyon",
+        "name:fr": "Gare de Lyon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "1",
+        "ref:FR:RATP": "962",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000011,
+      "lat": 48.8563773572,
+      "lon": 2.39456194456,
+      "tags": {
+        "name": "Alexandre Dumas",
+        "name:fr": "Alexandre Dumas",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "11",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000021,
+      "lat": 48.8828686476,
+      "lon": 2.34413063372,
+      "tags": {
+        "name": "Anvers",
+        "name:fr": "Anvers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "21",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000044,
+      "lat": 48.8515102782,
+      "lon": 2.39830234427,
+      "tags": {
+        "name": "Avron",
+        "name:fr": "Avron",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "44",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000049,
+      "lat": 48.8838039424,
+      "lon": 2.35061300069,
+      "tags": {
+        "name": "Barbès-Rochechouart",
+        "name:fr": "Barbès-Rochechouart",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "49",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000061,
+      "lat": 48.8723101138,
+      "lon": 2.37670214473,
+      "tags": {
+        "name": "Belleville",
+        "name:fr": "Belleville",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "61",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000076,
+      "lat": 48.8839585735,
+      "lon": 2.33192659089,
+      "tags": {
+        "name": "Blanche",
+        "name:fr": "Blanche",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "76",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000153,
+      "lat": 48.874613927,
+      "lon": 2.29556736975,
+      "tags": {
+        "name": "Charles de Gaulle-Étoile",
+        "name:fr": "Charles de Gaulle-Étoile",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "153",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000195,
+      "lat": 48.8776101874,
+      "lon": 2.37081139531,
+      "tags": {
+        "name": "Colonel Fabien",
+        "name:fr": "Colonel Fabien",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "195",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000218,
+      "lat": 48.8792141342,
+      "lon": 2.30352872537,
+      "tags": {
+        "name": "Courcelles",
+        "name:fr": "Courcelles",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "218",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000220,
+      "lat": 48.8690911629,
+      "lon": 2.38054258599,
+      "tags": {
+        "name": "Couronnes",
+        "name:fr": "Couronnes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "220",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000373,
+      "lat": 48.8814985959,
+      "lon": 2.37026212666,
+      "tags": {
+        "name": "Jaurès",
+        "name:fr": "Jaurès",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "373",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000409,
+      "lat": 48.8843987952,
+      "lon": 2.36049131853,
+      "tags": {
+        "name": "La Chapelle",
+        "name:fr": "La Chapelle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "409",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000533,
+      "lat": 48.8668000351,
+      "lon": 2.38338325046,
+      "tags": {
+        "name": "Ménilmontant",
+        "name:fr": "Ménilmontant",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "533",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000552,
+      "lat": 48.8804494561,
+      "lon": 2.30945116799,
+      "tags": {
+        "name": "Monceau",
+        "name:fr": "Monceau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "552",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000584,
+      "lat": 48.848474286,
+      "lon": 2.39506230543,
+      "tags": {
+        "name": "Nation",
+        "name:fr": "Nation",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "584",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000633,
+      "lat": 48.8626540191,
+      "lon": 2.38760728815,
+      "tags": {
+        "name": "Père Lachaise",
+        "name:fr": "Père Lachaise",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "633",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000640,
+      "lat": 48.8584665494,
+      "lon": 2.38972985235,
+      "tags": {
+        "name": "Philippe Auguste",
+        "name:fr": "Philippe Auguste",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "640",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000647,
+      "lat": 48.8823901507,
+      "lon": 2.33729479057,
+      "tags": {
+        "name": "Pigalle",
+        "name:fr": "Pigalle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "647",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000649,
+      "lat": 48.8836149922,
+      "lon": 2.32783955611,
+      "tags": {
+        "name": "Place de Clichy",
+        "name:fr": "Place de Clichy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "649",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000682,
+      "lat": 48.8714665781,
+      "lon": 2.27708301705,
+      "tags": {
+        "name": "Porte Dauphine",
+        "name:fr": "Porte Dauphine",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "682",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000746,
+      "lat": 48.8822269008,
+      "lon": 2.32127492677,
+      "tags": {
+        "name": "Rome",
+        "name:fr": "Rome",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "746",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000808,
+      "lat": 48.8842789443,
+      "lon": 2.36588135817,
+      "tags": {
+        "name": "Stalingrad",
+        "name:fr": "Stalingrad",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "808",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000850,
+      "lat": 48.8779727014,
+      "lon": 2.29831037512,
+      "tags": {
+        "name": "Ternes",
+        "name:fr": "Ternes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "850",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000892,
+      "lat": 48.8697985565,
+      "lon": 2.28533509469,
+      "tags": {
+        "name": "Victor Hugo",
+        "name:fr": "Victor Hugo",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "892",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000907,
+      "lat": 48.8811500285,
+      "lon": 2.31517662622,
+      "tags": {
+        "name": "Villiers",
+        "name:fr": "Villiers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "2",
+        "ref:FR:RATP": "907",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000016,
+      "lat": 48.892082786,
+      "lon": 2.28500950275,
+      "tags": {
+        "name": "Anatole France",
+        "name:fr": "Anatole France",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "16",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000028,
+      "lat": 48.8655864776,
+      "lon": 2.35673675681,
+      "tags": {
+        "name": "Arts et Métiers",
+        "name:fr": "Arts et Métiers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "28",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000104,
+      "lat": 48.8686959778,
+      "lon": 2.34072072367,
+      "tags": {
+        "name": "Bourse",
+        "name:fr": "Bourse",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "104",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000275,
+      "lat": 48.8787703685,
+      "lon": 2.32226521312,
+      "tags": {
+        "name": "Europe",
+        "name:fr": "Europe",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "275",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000300,
+      "lat": 48.8653353173,
+      "lon": 2.41669727286,
+      "tags": {
+        "name": "Gallieni (Parc de Bagnolet)",
+        "name:fr": "Gallieni (Parc de Bagnolet)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "300",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000301,
+      "lat": 48.8649166851,
+      "lon": 2.39898444025,
+      "tags": {
+        "name": "Gambetta",
+        "name:fr": "Gambetta",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "301",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000344,
+      "lat": 48.8735133896,
+      "lon": 2.32754308036,
+      "tags": {
+        "name": "Havre-Caumartin",
+        "name:fr": "Havre-Caumartin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "344",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000478,
+      "lat": 48.8887060198,
+      "lon": 2.28808363305,
+      "tags": {
+        "name": "Louise Michel",
+        "name:fr": "Louise Michel",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "478",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000506,
+      "lat": 48.8828919175,
+      "lon": 2.30905226455,
+      "tags": {
+        "name": "Malesherbes",
+        "name:fr": "Malesherbes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "506",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000606,
+      "lat": 48.8709917839,
+      "lon": 2.33198952268,
+      "tags": {
+        "name": "Opéra",
+        "name:fr": "Opéra",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "606",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000625,
+      "lat": 48.8652537861,
+      "lon": 2.37458197,
+      "tags": {
+        "name": "Parmentier",
+        "name:fr": "Parmentier",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "625",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000631,
+      "lat": 48.8848962552,
+      "lon": 2.29772434648,
+      "tags": {
+        "name": "Pereire-Levallois",
+        "name:fr": "Pereire-Levallois",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "631",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000634,
+      "lat": 48.8631232146,
+      "lon": 2.38588244933,
+      "tags": {
+        "name": "Père Lachaise",
+        "name:fr": "Père Lachaise",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "634",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000668,
+      "lat": 48.8978210671,
+      "lon": 2.27980958669,
+      "tags": {
+        "name": "Pont de Levallois-Bécon",
+        "name:fr": "Pont de Levallois-Bécon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "668",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000684,
+      "lat": 48.8646003734,
+      "lon": 2.40803103708,
+      "tags": {
+        "name": "Porte de Bagnolet",
+        "name:fr": "Porte de Bagnolet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "684",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000685,
+      "lat": 48.8857931052,
+      "lon": 2.2925823141,
+      "tags": {
+        "name": "Porte de Champerret",
+        "name:fr": "Porte de Champerret",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "685",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000719,
+      "lat": 48.8695852435,
+      "lon": 2.33621884752,
+      "tags": {
+        "name": "Quatre Septembre",
+        "name:fr": "Quatre Septembre",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "719",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000725,
+      "lat": 48.8663402993,
+      "lon": 2.35206831805,
+      "tags": {
+        "name": "Réaumur Sébastopol",
+        "name:fr": "Réaumur Sébastopol",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "725",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000730,
+      "lat": 48.8670267876,
+      "lon": 2.36424799375,
+      "tags": {
+        "name": "République",
+        "name:fr": "République",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "730",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000771,
+      "lat": 48.8750063981,
+      "lon": 2.32457481029,
+      "tags": {
+        "name": "Saint-Lazare",
+        "name:fr": "Saint-Lazare",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "771",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000774,
+      "lat": 48.8640865748,
+      "lon": 2.38079798618,
+      "tags": {
+        "name": "Saint-Maur",
+        "name:fr": "Saint-Maur",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "774",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000792,
+      "lat": 48.867309475,
+      "lon": 2.34751621328,
+      "tags": {
+        "name": "Sentier",
+        "name:fr": "Sentier",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "792",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000849,
+      "lat": 48.8666826802,
+      "lon": 2.36154153207,
+      "tags": {
+        "name": "Temple",
+        "name:fr": "Temple",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "849",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000908,
+      "lat": 48.8811500285,
+      "lon": 2.31517662622,
+      "tags": {
+        "name": "Villiers",
+        "name:fr": "Villiers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "908",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000923,
+      "lat": 48.8838092012,
+      "lon": 2.30467444053,
+      "tags": {
+        "name": "Wagram",
+        "name:fr": "Wagram",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3",
+        "ref:FR:RATP": "923",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000010,
+      "lat": 48.8281884763,
+      "lon": 2.32716464961,
+      "tags": {
+        "name": "Alésia",
+        "name:fr": "Alésia",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "10",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000050,
+      "lat": 48.8834361881,
+      "lon": 2.34977444365,
+      "tags": {
+        "name": "Barbès-Rochechouart",
+        "name:fr": "Barbès-Rochechouart",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "50",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000159,
+      "lat": 48.8724249145,
+      "lon": 2.35604490767,
+      "tags": {
+        "name": "Château d'Eau",
+        "name:fr": "Château d'Eau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "159",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000162,
+      "lat": 48.8873749106,
+      "lon": 2.3496940822,
+      "tags": {
+        "name": "Château Rouge",
+        "name:fr": "Château Rouge",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "162",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000168,
+      "lat": 48.8583823703,
+      "lon": 2.34756482975,
+      "tags": {
+        "name": "Châtelet",
+        "name:fr": "Châtelet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "168",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000188,
+      "lat": 48.8549363766,
+      "lon": 2.34732131573,
+      "tags": {
+        "name": "Cité",
+        "name:fr": "Cité",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "188",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000236,
+      "lat": 48.8334508582,
+      "lon": 2.33174013099,
+      "tags": {
+        "name": "Denfert-Rochereau",
+        "name:fr": "Denfert-Rochereau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "236",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000273,
+      "lat": 48.8638074378,
+      "lon": 2.34888065259,
+      "tags": {
+        "name": "Étienne Marcel",
+        "name:fr": "Étienne Marcel",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "273",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000313,
+      "lat": 48.8759910648,
+      "lon": 2.35788077193,
+      "tags": {
+        "name": "Gare de l'Est",
+        "name:fr": "Gare de l'Est",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "313",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000318,
+      "lat": 48.8795512844,
+      "lon": 2.35699516401,
+      "tags": {
+        "name": "Gare du Nord",
+        "name:fr": "Gare du Nord",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "318",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000460,
+      "lat": 48.8623162787,
+      "lon": 2.34567382822,
+      "tags": {
+        "name": "Les Halles",
+        "name:fr": "Les Halles",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "460",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000511,
+      "lat": 48.8914168342,
+      "lon": 2.34973840702,
+      "tags": {
+        "name": "Marcadet-Poissonniers",
+        "name:fr": "Marcadet-Poissonniers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "511",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000564,
+      "lat": 48.8437813048,
+      "lon": 2.3243970124,
+      "tags": {
+        "name": "Montparnasse-Bienvenüe",
+        "name:fr": "Montparnasse-Bienvenüe",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "564",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000573,
+      "lat": 48.8311126604,
+      "lon": 2.32970501262,
+      "tags": {
+        "name": "Mouton-Duvernet",
+        "name:fr": "Mouton-Duvernet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "573",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000605,
+      "lat": 48.8523007631,
+      "lon": 2.33972778159,
+      "tags": {
+        "name": "Odéon",
+        "name:fr": "Odéon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "605",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000690,
+      "lat": 48.8974022229,
+      "lon": 2.34484774875,
+      "tags": {
+        "name": "Porte de Clignancourt",
+        "name:fr": "Porte de Clignancourt",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "690",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000706,
+      "lat": 48.823411629,
+      "lon": 2.32557563621,
+      "tags": {
+        "name": "Porte d'Orléans",
+        "name:fr": "Porte d'Orléans",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "706",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000723,
+      "lat": 48.8389642807,
+      "lon": 2.33075419209,
+      "tags": {
+        "name": "Raspail",
+        "name:fr": "Raspail",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "723",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000726,
+      "lat": 48.8660696891,
+      "lon": 2.35245974411,
+      "tags": {
+        "name": "Réaumur Sébastopol",
+        "name:fr": "Réaumur Sébastopol",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "726",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000767,
+      "lat": 48.853718934,
+      "lon": 2.33377613686,
+      "tags": {
+        "name": "Saint-Germain-des-Prés",
+        "name:fr": "Saint-Germain-des-Prés",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "767",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000776,
+      "lat": 48.8531679849,
+      "lon": 2.34328597892,
+      "tags": {
+        "name": "Saint-Michel",
+        "name:fr": "Saint-Michel",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "776",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000779,
+      "lat": 48.846878238,
+      "lon": 2.32679278504,
+      "tags": {
+        "name": "Saint-Placide",
+        "name:fr": "Saint-Placide",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "779",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000781,
+      "lat": 48.8516722456,
+      "lon": 2.33125629137,
+      "tags": {
+        "name": "Saint-Sulpice",
+        "name:fr": "Saint-Sulpice",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "781",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000802,
+      "lat": 48.893941388,
+      "lon": 2.34776550172,
+      "tags": {
+        "name": "Simplon",
+        "name:fr": "Simplon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "802",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000836,
+      "lat": 48.8694907745,
+      "lon": 2.35439176839,
+      "tags": {
+        "name": "Strasbourg-Saint-Denis",
+        "name:fr": "Strasbourg-Saint-Denis",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "836",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000879,
+      "lat": 48.8422184136,
+      "lon": 2.32900892624,
+      "tags": {
+        "name": "Vavin",
+        "name:fr": "Vavin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "879",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9001134,
+      "lat": 48.8186764099,
+      "lon": 2.3197403133,
+      "tags": {
+        "name": "Mairie de Montrouge",
+        "name:fr": "Mairie de Montrouge",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "4",
+        "ref:FR:RATP": "1134",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000055,
+      "lat": 48.8534369623,
+      "lon": 2.36873657263,
+      "tags": {
+        "name": "Bastille",
+        "name:fr": "Bastille",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "55",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000079,
+      "lat": 48.9063747703,
+      "lon": 2.44918990449,
+      "tags": {
+        "name": "Bobigny-Pablo Picasso",
+        "name:fr": "Bobigny-Pablo Picasso",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "79",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000080,
+      "lat": 48.895454673,
+      "lon": 2.4253268888,
+      "tags": {
+        "name": "Bobigny-Pantin (Raymond Queneau)",
+        "name:fr": "Bobigny-Pantin (Raymond Queneau)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "80",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000107,
+      "lat": 48.8561407093,
+      "lon": 2.37020933841,
+      "tags": {
+        "name": "Bréguet-Sabin",
+        "name:fr": "Bréguet-Sabin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "107",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000124,
+      "lat": 48.8354953554,
+      "lon": 2.3588234891,
+      "tags": {
+        "name": "Campo Formio",
+        "name:fr": "Campo Formio",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "124",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000253,
+      "lat": 48.89325759,
+      "lon": 2.41331313951,
+      "tags": {
+        "name": "Église de Pantin",
+        "name:fr": "Église de Pantin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "253",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000312,
+      "lat": 48.8422653865,
+      "lon": 2.36533865297,
+      "tags": {
+        "name": "Gare d'Austerlitz",
+        "name:fr": "Gare d'Austerlitz",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "312",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000314,
+      "lat": 48.8761263529,
+      "lon": 2.35804750536,
+      "tags": {
+        "name": "Gare de l'Est",
+        "name:fr": "Gare de l'Est",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "314",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000319,
+      "lat": 48.8798501425,
+      "lon": 2.35745934659,
+      "tags": {
+        "name": "Gare du Nord",
+        "name:fr": "Gare du Nord",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "319",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000348,
+      "lat": 48.8912285932,
+      "lon": 2.40235214254,
+      "tags": {
+        "name": "Hoche",
+        "name:fr": "Hoche",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "348",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000370,
+      "lat": 48.87080998,
+      "lon": 2.36102746692,
+      "tags": {
+        "name": "Jacques Bonsergent",
+        "name:fr": "Jacques Bonsergent",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "370",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000374,
+      "lat": 48.8831474514,
+      "lon": 2.37100144075,
+      "tags": {
+        "name": "Jaurès",
+        "name:fr": "Jaurès",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "374",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000426,
+      "lat": 48.8852161821,
+      "lon": 2.37966307748,
+      "tags": {
+        "name": "Laumière",
+        "name:fr": "Laumière",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "426",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000602,
+      "lat": 48.8646578796,
+      "lon": 2.36841002566,
+      "tags": {
+        "name": "Oberkampf",
+        "name:fr": "Oberkampf",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "602",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000614,
+      "lat": 48.8871348691,
+      "lon": 2.38696001714,
+      "tags": {
+        "name": "Ourcq",
+        "name:fr": "Ourcq",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "614",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000652,
+      "lat": 48.830972673,
+      "lon": 2.35558027408,
+      "tags": {
+        "name": "Place d'Italie",
+        "name:fr": "Place d'Italie",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "652",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000694,
+      "lat": 48.8885036879,
+      "lon": 2.39211369776,
+      "tags": {
+        "name": "Porte de Pantin",
+        "name:fr": "Porte de Pantin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "694",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000718,
+      "lat": 48.8465154042,
+      "lon": 2.36587346941,
+      "tags": {
+        "name": "Quai de la Rapée",
+        "name:fr": "Quai de la Rapée",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "718",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000731,
+      "lat": 48.8673844729,
+      "lon": 2.36426495043,
+      "tags": {
+        "name": "République",
+        "name:fr": "République",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "731",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000736,
+      "lat": 48.8598736244,
+      "lon": 2.37191398009,
+      "tags": {
+        "name": "Richard Lenoir",
+        "name:fr": "Richard Lenoir",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "736",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000773,
+      "lat": 48.838427297,
+      "lon": 2.3609671677,
+      "tags": {
+        "name": "Saint-Marcel",
+        "name:fr": "Saint-Marcel",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "773",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000809,
+      "lat": 48.8844208864,
+      "lon": 2.36589381994,
+      "tags": {
+        "name": "Stalingrad",
+        "name:fr": "Stalingrad",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "5",
+        "ref:FR:RATP": "809",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000059,
+      "lat": 48.8413382509,
+      "lon": 2.40091853812,
+      "tags": {
+        "name": "Bel Air",
+        "name:fr": "Bel Air",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "59",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000067,
+      "lat": 48.8403887481,
+      "lon": 2.37991127145,
+      "tags": {
+        "name": "Bercy",
+        "name:fr": "Bercy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "67",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000075,
+      "lat": 48.8539426071,
+      "lon": 2.28933453277,
+      "tags": {
+        "name": "Bir-Hakeim (Grenelle)",
+        "name:fr": "Bir-Hakeim (Grenelle)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "75",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000084,
+      "lat": 48.8669831104,
+      "lon": 2.29005883493,
+      "tags": {
+        "name": "Boissière",
+        "name:fr": "Boissière",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "84",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000123,
+      "lat": 48.8475070811,
+      "lon": 2.30296829919,
+      "tags": {
+        "name": "Cambronne",
+        "name:fr": "Cambronne",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "123",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000154,
+      "lat": 48.8747486507,
+      "lon": 2.29556025621,
+      "tags": {
+        "name": "Charles de Gaulle-Étoile",
+        "name:fr": "Charles de Gaulle-Étoile",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "154",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000183,
+      "lat": 48.8349477223,
+      "lon": 2.36812632906,
+      "tags": {
+        "name": "Chevaleret",
+        "name:fr": "Chevaleret",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "183",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000212,
+      "lat": 48.8297905137,
+      "lon": 2.35041487201,
+      "tags": {
+        "name": "Corvisart",
+        "name:fr": "Corvisart",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "212",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000233,
+      "lat": 48.8395496456,
+      "lon": 2.39570328944,
+      "tags": {
+        "name": "Daumesnil",
+        "name:fr": "Daumesnil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "233",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000237,
+      "lat": 48.8342929805,
+      "lon": 2.33285230996,
+      "tags": {
+        "name": "Denfert-Rochereau",
+        "name:fr": "Denfert-Rochereau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "237",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000244,
+      "lat": 48.8390411437,
+      "lon": 2.38962001134,
+      "tags": {
+        "name": "Dugommier",
+        "name:fr": "Dugommier",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "244",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000245,
+      "lat": 48.850434549,
+      "lon": 2.29361243991,
+      "tags": {
+        "name": "Dupleix",
+        "name:fr": "Dupleix",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "245",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000250,
+      "lat": 48.8406632293,
+      "lon": 2.32638461079,
+      "tags": {
+        "name": "Edgar Quinet",
+        "name:fr": "Edgar Quinet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "250",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000331,
+      "lat": 48.831129548,
+      "lon": 2.34351165775,
+      "tags": {
+        "name": "Glacière",
+        "name:fr": "Glacière",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "331",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000389,
+      "lat": 48.8716497691,
+      "lon": 2.29352429034,
+      "tags": {
+        "name": "Kléber",
+        "name:fr": "Kléber",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "389",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000421,
+      "lat": 48.8487416657,
+      "lon": 2.29893091175,
+      "tags": {
+        "name": "La Motte Picquet-Grenelle",
+        "name:fr": "La Motte Picquet-Grenelle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "421",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000565,
+      "lat": 48.8421022072,
+      "lon": 2.32127856274,
+      "tags": {
+        "name": "Montparnasse-Bienvenüe",
+        "name:fr": "Montparnasse-Bienvenüe",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "565",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000585,
+      "lat": 48.8473748787,
+      "lon": 2.39546199483,
+      "tags": {
+        "name": "Nation",
+        "name:fr": "Nation",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "585",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000587,
+      "lat": 48.8332167197,
+      "lon": 2.36285639952,
+      "tags": {
+        "name": "Nationale",
+        "name:fr": "Nationale",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "587",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000626,
+      "lat": 48.857448691,
+      "lon": 2.28581244413,
+      "tags": {
+        "name": "Passy",
+        "name:fr": "Passy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "626",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000629,
+      "lat": 48.84267682,
+      "lon": 2.31281277347,
+      "tags": {
+        "name": "Pasteur",
+        "name:fr": "Pasteur",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "629",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000641,
+      "lat": 48.8450615799,
+      "lon": 2.40128901983,
+      "tags": {
+        "name": "Picpus",
+        "name:fr": "Picpus",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "641",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000653,
+      "lat": 48.830927241,
+      "lon": 2.3561219388,
+      "tags": {
+        "name": "Place d'Italie",
+        "name:fr": "Place d'Italie",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "653",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000717,
+      "lat": 48.8370451192,
+      "lon": 2.37282572183,
+      "tags": {
+        "name": "Quai de la Gare",
+        "name:fr": "Quai de la Gare",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "717",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000724,
+      "lat": 48.8389642807,
+      "lon": 2.33075419209,
+      "tags": {
+        "name": "Raspail",
+        "name:fr": "Raspail",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "724",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000768,
+      "lat": 48.8329008165,
+      "lon": 2.33713519061,
+      "tags": {
+        "name": "Saint-Jacques",
+        "name:fr": "Saint-Jacques",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "768",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000800,
+      "lat": 48.8456269667,
+      "lon": 2.3095314901,
+      "tags": {
+        "name": "Sèvres-Lecourbe",
+        "name:fr": "Sèvres-Lecourbe",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "800",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000862,
+      "lat": 48.8636109376,
+      "lon": 2.28758016253,
+      "tags": {
+        "name": "Trocadéro",
+        "name:fr": "Trocadéro",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "6",
+        "ref:FR:RATP": "862",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000035,
+      "lat": 48.9037599302,
+      "lon": 2.39228705964,
+      "tags": {
+        "name": "Aubervilliers-Pantin (4 Chemins)",
+        "name:fr": "Aubervilliers-Pantin (4 Chemins)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "35",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000122,
+      "lat": 48.8758906819,
+      "lon": 2.34412603046,
+      "tags": {
+        "name": "Cadet",
+        "name:fr": "Cadet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "122",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000127,
+      "lat": 48.8404866526,
+      "lon": 2.35173948717,
+      "tags": {
+        "name": "Censier-Daubenton",
+        "name:fr": "Censier-Daubenton",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "127",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000161,
+      "lat": 48.8785656258,
+      "lon": 2.36216007192,
+      "tags": {
+        "name": "Château-Landon",
+        "name:fr": "Château-Landon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "161",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000169,
+      "lat": 48.8570599663,
+      "lon": 2.34771187993,
+      "tags": {
+        "name": "Châtelet",
+        "name:fr": "Châtelet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "169",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000173,
+      "lat": 48.8731092743,
+      "lon": 2.33345121858,
+      "tags": {
+        "name": "Chaussée d'Antin (La Fayette)",
+        "name:fr": "Chaussée d'Antin (La Fayette)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "173",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000209,
+      "lat": 48.8948364684,
+      "lon": 2.38252234342,
+      "tags": {
+        "name": "Corentin-Cariou",
+        "name:fr": "Corentin-Cariou",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "209",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000227,
+      "lat": 48.8907889695,
+      "lon": 2.3773157556,
+      "tags": {
+        "name": "Crimée",
+        "name:fr": "Crimée",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "227",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000290,
+      "lat": 48.9149497564,
+      "lon": 2.40440908743,
+      "tags": {
+        "name": "Fort d'Aubervilliers",
+        "name:fr": "Fort d'Aubervilliers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "290",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000315,
+      "lat": 48.8762727035,
+      "lon": 2.35805790434,
+      "tags": {
+        "name": "Gare de l'Est",
+        "name:fr": "Gare de l'Est",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "315",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000384,
+      "lat": 48.8459506666,
+      "lon": 2.35505026306,
+      "tags": {
+        "name": "Jussieu",
+        "name:fr": "Jussieu",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "384",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000412,
+      "lat": 48.9207859699,
+      "lon": 2.41059861373,
+      "tags": {
+        "name": "La Courneuve 8 Mai 1945",
+        "name:fr": "La Courneuve 8 Mai 1945",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "412",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000442,
+      "lat": 48.8101299573,
+      "lon": 2.36226338713,
+      "tags": {
+        "name": "Le Kremlin-Bicêtre",
+        "name:fr": "Le Kremlin-Bicêtre",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "442",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000443,
+      "lat": 48.8748743434,
+      "lon": 2.34019988439,
+      "tags": {
+        "name": "Le Peletier",
+        "name:fr": "Le Peletier",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "443",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000459,
+      "lat": 48.8358634842,
+      "lon": 2.35258892564,
+      "tags": {
+        "name": "Les Gobelins",
+        "name:fr": "Les Gobelins",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "459",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000476,
+      "lat": 48.8812858119,
+      "lon": 2.36554431917,
+      "tags": {
+        "name": "Louis Blanc",
+        "name:fr": "Louis Blanc",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "476",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000496,
+      "lat": 48.8110991977,
+      "lon": 2.38355147965,
+      "tags": {
+        "name": "Mairie d'Ivry",
+        "name:fr": "Mairie d'Ivry",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "496",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000497,
+      "lat": 48.8224378346,
+      "lon": 2.35847388385,
+      "tags": {
+        "name": "Maison Blanche",
+        "name:fr": "Maison Blanche",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "497",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000607,
+      "lat": 48.8704867033,
+      "lon": 2.33240740643,
+      "tags": {
+        "name": "Opéra",
+        "name:fr": "Opéra",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "607",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000619,
+      "lat": 48.8628296728,
+      "lon": 2.3368783976,
+      "tags": {
+        "name": "Palais Royal-Musée du Louvre",
+        "name:fr": "Palais Royal-Musée du Louvre",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "619",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000642,
+      "lat": 48.815930763,
+      "lon": 2.37726720015,
+      "tags": {
+        "name": "Pierre Curie",
+        "name:fr": "Pierre Curie",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "642",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000654,
+      "lat": 48.831433631,
+      "lon": 2.35564364302,
+      "tags": {
+        "name": "Place d'Italie",
+        "name:fr": "Place d'Italie",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "654",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000655,
+      "lat": 48.8428668307,
+      "lon": 2.35222472818,
+      "tags": {
+        "name": "Place Monge (Jardin des Plantes)",
+        "name:fr": "Place Monge (Jardin des Plantes)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "655",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000659,
+      "lat": 48.8772363191,
+      "lon": 2.34929390248,
+      "tags": {
+        "name": "Poissonnière",
+        "name:fr": "Poissonnière",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "659",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000673,
+      "lat": 48.8535754725,
+      "lon": 2.35716257162,
+      "tags": {
+        "name": "Pont Marie (Cité des Arts)",
+        "name:fr": "Pont Marie (Cité des Arts)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "673",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000674,
+      "lat": 48.8585538264,
+      "lon": 2.34223275937,
+      "tags": {
+        "name": "Pont Neuf (La Monnaie)",
+        "name:fr": "Pont Neuf (La Monnaie)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "674",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000687,
+      "lat": 48.819876221,
+      "lon": 2.36453195175,
+      "tags": {
+        "name": "Porte de Choisy",
+        "name:fr": "Porte de Choisy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "687",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000692,
+      "lat": 48.8973898907,
+      "lon": 2.38550838768,
+      "tags": {
+        "name": "Porte de la Villette",
+        "name:fr": "Porte de la Villette",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "692",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000703,
+      "lat": 48.8192233496,
+      "lon": 2.35970521675,
+      "tags": {
+        "name": "Porte d'Italie",
+        "name:fr": "Porte d'Italie",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "703",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000704,
+      "lat": 48.8213557838,
+      "lon": 2.36929058735,
+      "tags": {
+        "name": "Porte d'Ivry",
+        "name:fr": "Porte d'Ivry",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "704",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000715,
+      "lat": 48.8659809205,
+      "lon": 2.33433072438,
+      "tags": {
+        "name": "Pyramides",
+        "name:fr": "Pyramides",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "715",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000739,
+      "lat": 48.888267617,
+      "lon": 2.37420401204,
+      "tags": {
+        "name": "Riquet",
+        "name:fr": "Riquet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "739",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000810,
+      "lat": 48.8843851454,
+      "lon": 2.36939198436,
+      "tags": {
+        "name": "Stalingrad",
+        "name:fr": "Stalingrad",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "810",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000842,
+      "lat": 48.8512376804,
+      "lon": 2.361985141,
+      "tags": {
+        "name": "Sully-Morland",
+        "name:fr": "Sully-Morland",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "842",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000855,
+      "lat": 48.8264260109,
+      "lon": 2.35724565076,
+      "tags": {
+        "name": "Tolbiac",
+        "name:fr": "Tolbiac",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "855",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000896,
+      "lat": 48.8046881209,
+      "lon": 2.3639531966,
+      "tags": {
+        "name": "Villejuif-Léo Lagrange",
+        "name:fr": "Villejuif-Léo Lagrange",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "896",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000897,
+      "lat": 48.7875627921,
+      "lon": 2.36780410698,
+      "tags": {
+        "name": "Villejuif-Louis Aragon",
+        "name:fr": "Villejuif-Louis Aragon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "897",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000898,
+      "lat": 48.7964830828,
+      "lon": 2.36826954143,
+      "tags": {
+        "name": "Villejuif-Paul Vaillant-Couturier",
+        "name:fr": "Villejuif-Paul Vaillant-Couturier",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7",
+        "ref:FR:RATP": "898",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000012,
+      "lat": 48.814803007,
+      "lon": 2.42237614285,
+      "tags": {
+        "name": "École Vétérinaire de Maisons-Alfort",
+        "name:fr": "École Vétérinaire de Maisons-Alfort",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "12",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000047,
+      "lat": 48.8359308792,
+      "lon": 2.27816167128,
+      "tags": {
+        "name": "Balard",
+        "name:fr": "Balard",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "47",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000056,
+      "lat": 48.8534394276,
+      "lon": 2.36951356952,
+      "tags": {
+        "name": "Bastille",
+        "name:fr": "Bastille",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "56",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000090,
+      "lat": 48.8701642009,
+      "lon": 2.35049797186,
+      "tags": {
+        "name": "Bonne Nouvelle",
+        "name:fr": "Bonne Nouvelle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "90",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000094,
+      "lat": 48.8410940563,
+      "lon": 2.2879457665,
+      "tags": {
+        "name": "Boucicaut",
+        "name:fr": "Boucicaut",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "94",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000150,
+      "lat": 48.8215957673,
+      "lon": 2.41373751752,
+      "tags": {
+        "name": "Charenton-Écoles",
+        "name:fr": "Charenton-Écoles",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "150",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000180,
+      "lat": 48.8574200375,
+      "lon": 2.3681082907,
+      "tags": {
+        "name": "Chemin Vert",
+        "name:fr": "Chemin Vert",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "180",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000197,
+      "lat": 48.8447947646,
+      "lon": 2.29395196364,
+      "tags": {
+        "name": "Commerce",
+        "name:fr": "Commerce",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "197",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000201,
+      "lat": 48.866818369,
+      "lon": 2.32208284869,
+      "tags": {
+        "name": "Concorde",
+        "name:fr": "Concorde",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "201",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000223,
+      "lat": 48.7967407666,
+      "lon": 2.44943317569,
+      "tags": {
+        "name": "Créteil-L'Échat (Hôpital Mondor)",
+        "name:fr": "Créteil-L'Échat (Hôpital Mondor)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "223",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000224,
+      "lat": 48.779905317,
+      "lon": 2.45936839626,
+      "tags": {
+        "name": "Créteil-Préfecture (Hôtel de Ville)",
+        "name:fr": "Créteil-Préfecture (Hôtel de Ville)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "224",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000226,
+      "lat": 48.7899783103,
+      "lon": 2.45045317792,
+      "tags": {
+        "name": "Créteil-Université",
+        "name:fr": "Créteil-Université",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "226",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000234,
+      "lat": 48.8394454284,
+      "lon": 2.39618288645,
+      "tags": {
+        "name": "Daumesnil",
+        "name:fr": "Daumesnil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "234",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000248,
+      "lat": 48.8546821569,
+      "lon": 2.3060974037,
+      "tags": {
+        "name": "École Militaire",
+        "name:fr": "École Militaire",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "248",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000279,
+      "lat": 48.8501778619,
+      "lon": 2.38409221007,
+      "tags": {
+        "name": "Faidherbe Chaligny",
+        "name:fr": "Faidherbe Chaligny",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "279",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000282,
+      "lat": 48.8427467798,
+      "lon": 2.29191241332,
+      "tags": {
+        "name": "Félix Faure",
+        "name:fr": "Félix Faure",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "282",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000283,
+      "lat": 48.863257945,
+      "lon": 2.36666109472,
+      "tags": {
+        "name": "Filles du Calvaire",
+        "name:fr": "Filles du Calvaire",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "283",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000363,
+      "lat": 48.8623253291,
+      "lon": 2.31513843219,
+      "tags": {
+        "name": "Invalides",
+        "name:fr": "Invalides",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "363",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000422,
+      "lat": 48.8493505536,
+      "lon": 2.29830140173,
+      "tags": {
+        "name": "La Motte Picquet-Grenelle",
+        "name:fr": "La Motte Picquet-Grenelle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "422",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000425,
+      "lat": 48.8577254129,
+      "lon": 2.31056596095,
+      "tags": {
+        "name": "La Tour Maubourg",
+        "name:fr": "La Tour Maubourg",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "425",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000441,
+      "lat": 48.8512711264,
+      "lon": 2.37611877334,
+      "tags": {
+        "name": "Ledru Rollin",
+        "name:fr": "Ledru Rollin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "441",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000466,
+      "lat": 48.8260549965,
+      "lon": 2.40674222593,
+      "tags": {
+        "name": "Liberté",
+        "name:fr": "Liberté",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "466",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000479,
+      "lat": 48.8389609394,
+      "lon": 2.28270002724,
+      "tags": {
+        "name": "Lourmel",
+        "name:fr": "Lourmel",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "479",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000489,
+      "lat": 48.869633173,
+      "lon": 2.32627227403,
+      "tags": {
+        "name": "Madeleine",
+        "name:fr": "Madeleine",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "489",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000499,
+      "lat": 48.8026376907,
+      "lon": 2.44692748424,
+      "tags": {
+        "name": "Maisons-Alfort-Les Juilliottes",
+        "name:fr": "Maisons-Alfort-Les Juilliottes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "499",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000500,
+      "lat": 48.8091443609,
+      "lon": 2.43450989593,
+      "tags": {
+        "name": "Maisons-Alfort-Stade",
+        "name:fr": "Maisons-Alfort-Stade",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "500",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000546,
+      "lat": 48.837117007,
+      "lon": 2.40233316592,
+      "tags": {
+        "name": "Michel Bizot",
+        "name:fr": "Michel Bizot",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "546",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000555,
+      "lat": 48.8444086721,
+      "lon": 2.39007511282,
+      "tags": {
+        "name": "Montgallet",
+        "name:fr": "Montgallet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "555",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000608,
+      "lat": 48.8706417323,
+      "lon": 2.33213859959,
+      "tags": {
+        "name": "Opéra",
+        "name:fr": "Opéra",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "608",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000686,
+      "lat": 48.8331629295,
+      "lon": 2.40144805422,
+      "tags": {
+        "name": "Porte de Charenton",
+        "name:fr": "Porte de Charenton",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "686",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000705,
+      "lat": 48.8347851581,
+      "lon": 2.40538321063,
+      "tags": {
+        "name": "Porte Dorée",
+        "name:fr": "Porte Dorée",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "705",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000732,
+      "lat": 48.8671587253,
+      "lon": 2.3639578365,
+      "tags": {
+        "name": "République",
+        "name:fr": "République",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "732",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000735,
+      "lat": 48.8471287213,
+      "lon": 2.38702524211,
+      "tags": {
+        "name": "Reuilly Diderot",
+        "name:fr": "Reuilly Diderot",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "735",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000737,
+      "lat": 48.8717866021,
+      "lon": 2.33903054672,
+      "tags": {
+        "name": "Richelieu-Drouot",
+        "name:fr": "Richelieu-Drouot",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "737",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000754,
+      "lat": 48.8714977394,
+      "lon": 2.34315477308,
+      "tags": {
+        "name": "Grands Boulevards (Rue Montmartre)",
+        "name:fr": "Grands Boulevards (Rue Montmartre)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "754",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000780,
+      "lat": 48.8611688655,
+      "lon": 2.36721086641,
+      "tags": {
+        "name": "Saint-Sébastien-Froissart",
+        "name:fr": "Saint-Sébastien-Froissart",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "780",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000837,
+      "lat": 48.8692241717,
+      "lon": 2.3546037907,
+      "tags": {
+        "name": "Strasbourg-Saint-Denis",
+        "name:fr": "Strasbourg-Saint-Denis",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "837",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9001072,
+      "lat": 48.7687151253,
+      "lon": 2.46456499321,
+      "tags": {
+        "name": "Créteil-Pointe du Lac",
+        "name:fr": "Créteil-Pointe du Lac",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "8",
+        "ref:FR:RATP": "1072",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000014,
+      "lat": 48.864766845,
+      "lon": 2.3009910035,
+      "tags": {
+        "name": "Alma-Marceau",
+        "name:fr": "Alma-Marceau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "14",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000074,
+      "lat": 48.8321105601,
+      "lon": 2.23863934858,
+      "tags": {
+        "name": "Billancourt",
+        "name:fr": "Billancourt",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "74",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000091,
+      "lat": 48.8701642009,
+      "lon": 2.35049797186,
+      "tags": {
+        "name": "Bonne Nouvelle",
+        "name:fr": "Bonne Nouvelle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "91",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000098,
+      "lat": 48.8523154274,
+      "lon": 2.38937812792,
+      "tags": {
+        "name": "Rue des Boulets",
+        "name:fr": "Rue des Boulets",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "98",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000121,
+      "lat": 48.851812133,
+      "lon": 2.40102227052,
+      "tags": {
+        "name": "Buzenval",
+        "name:fr": "Buzenval",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "121",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000156,
+      "lat": 48.8545804991,
+      "lon": 2.38556348082,
+      "tags": {
+        "name": "Charonne",
+        "name:fr": "Charonne",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "156",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000174,
+      "lat": 48.8729376577,
+      "lon": 2.33347913185,
+      "tags": {
+        "name": "Chaussée d'Antin (La Fayette)",
+        "name:fr": "Chaussée d'Antin (La Fayette)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "174",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000228,
+      "lat": 48.8579655912,
+      "lon": 2.43555571569,
+      "tags": {
+        "name": "Croix de Chavaux (Jacques Duclos)",
+        "name:fr": "Croix de Chavaux (Jacques Duclos)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "228",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000278,
+      "lat": 48.8429386959,
+      "lon": 2.26003290221,
+      "tags": {
+        "name": "Exelmans",
+        "name:fr": "Exelmans",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "278",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000294,
+      "lat": 48.8686998474,
+      "lon": 2.30950515734,
+      "tags": {
+        "name": "Franklin D.Roosevelt",
+        "name:fr": "Franklin D.Roosevelt",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "294",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000345,
+      "lat": 48.8737134067,
+      "lon": 2.32769540963,
+      "tags": {
+        "name": "Havre-Caumartin",
+        "name:fr": "Havre-Caumartin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "345",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000359,
+      "lat": 48.8647940658,
+      "lon": 2.29416201811,
+      "tags": {
+        "name": "Iéna",
+        "name:fr": "Iéna",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "359",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000372,
+      "lat": 48.8525040906,
+      "lon": 2.26817674944,
+      "tags": {
+        "name": "Jasmin",
+        "name:fr": "Jasmin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "372",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000423,
+      "lat": 48.8580460563,
+      "lon": 2.27415463109,
+      "tags": {
+        "name": "La Muette",
+        "name:fr": "La Muette",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "423",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000492,
+      "lat": 48.8619369141,
+      "lon": 2.44131094125,
+      "tags": {
+        "name": "Mairie de Montreuil",
+        "name:fr": "Mairie de Montreuil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "492",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000509,
+      "lat": 48.8527251193,
+      "lon": 2.40608916188,
+      "tags": {
+        "name": "Maraîchers",
+        "name:fr": "Maraîchers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "509",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000513,
+      "lat": 48.8337088491,
+      "lon": 2.24384059238,
+      "tags": {
+        "name": "Marcel Sembat",
+        "name:fr": "Marcel Sembat",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "513",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000543,
+      "lat": 48.8478956502,
+      "lon": 2.26408203075,
+      "tags": {
+        "name": "Michel Ange-Auteuil",
+        "name:fr": "Michel Ange-Auteuil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "543",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000545,
+      "lat": 48.8450581723,
+      "lon": 2.26174512496,
+      "tags": {
+        "name": "Michel Ange-Molitor",
+        "name:fr": "Michel Ange-Molitor",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "545",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000549,
+      "lat": 48.8737095277,
+      "lon": 2.31460632162,
+      "tags": {
+        "name": "Miromesnil",
+        "name:fr": "Miromesnil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "549",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000586,
+      "lat": 48.8489446451,
+      "lon": 2.39587943519,
+      "tags": {
+        "name": "Nation",
+        "name:fr": "Nation",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "586",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000603,
+      "lat": 48.8647276207,
+      "lon": 2.36849638711,
+      "tags": {
+        "name": "Oberkampf",
+        "name:fr": "Oberkampf",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "603",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000671,
+      "lat": 48.8296748438,
+      "lon": 2.23079959132,
+      "tags": {
+        "name": "Pont de Sèvres",
+        "name:fr": "Pont de Sèvres",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "671",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000693,
+      "lat": 48.8535439161,
+      "lon": 2.41062642574,
+      "tags": {
+        "name": "Porte de Montreuil",
+        "name:fr": "Porte de Montreuil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "693",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000695,
+      "lat": 48.8379612135,
+      "lon": 2.25712222985,
+      "tags": {
+        "name": "Porte de Saint-Cloud",
+        "name:fr": "Porte de Saint-Cloud",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "695",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000722,
+      "lat": 48.8554850504,
+      "lon": 2.27010913894,
+      "tags": {
+        "name": "Ranelagh",
+        "name:fr": "Ranelagh",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "722",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000733,
+      "lat": 48.8671116386,
+      "lon": 2.36423494565,
+      "tags": {
+        "name": "République",
+        "name:fr": "République",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "733",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000738,
+      "lat": 48.8721523526,
+      "lon": 2.33911503927,
+      "tags": {
+        "name": "Richelieu-Drouot",
+        "name:fr": "Richelieu-Drouot",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "738",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000741,
+      "lat": 48.8557264286,
+      "lon": 2.42298321615,
+      "tags": {
+        "name": "Robespierre",
+        "name:fr": "Robespierre",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "741",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000751,
+      "lat": 48.8639744458,
+      "lon": 2.27811255845,
+      "tags": {
+        "name": "Rue de la Pompe (Av. G. Mandel)",
+        "name:fr": "Rue de la Pompe (Av. G. Mandel)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "751",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000755,
+      "lat": 48.8714977394,
+      "lon": 2.34315477308,
+      "tags": {
+        "name": "Grands Boulevards (Rue Montmartre)",
+        "name:fr": "Grands Boulevards (Rue Montmartre)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "755",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000758,
+      "lat": 48.8610192599,
+      "lon": 2.37473343128,
+      "tags": {
+        "name": "Saint-Ambroise",
+        "name:fr": "Saint-Ambroise",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "758",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000759,
+      "lat": 48.8745583847,
+      "lon": 2.3213619281,
+      "tags": {
+        "name": "Saint-Augustin",
+        "name:fr": "Saint-Augustin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "759",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000778,
+      "lat": 48.8724223837,
+      "lon": 2.31003834462,
+      "tags": {
+        "name": "Saint-Philippe du Roule",
+        "name:fr": "Saint-Philippe du Roule",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "778",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000838,
+      "lat": 48.8692241717,
+      "lon": 2.3546037907,
+      "tags": {
+        "name": "Strasbourg-Saint-Denis",
+        "name:fr": "Strasbourg-Saint-Denis",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "838",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000863,
+      "lat": 48.8630650202,
+      "lon": 2.28624317069,
+      "tags": {
+        "name": "Trocadéro",
+        "name:fr": "Trocadéro",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "863",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000920,
+      "lat": 48.8574537227,
+      "lon": 2.38071878586,
+      "tags": {
+        "name": "Voltaire (Léon Blum)",
+        "name:fr": "Voltaire (Léon Blum)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "9",
+        "ref:FR:RATP": "920",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000043,
+      "lat": 48.8470195819,
+      "lon": 2.29542047803,
+      "tags": {
+        "name": "Avenue Émile Zola",
+        "name:fr": "Avenue Émile Zola",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "43",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000099,
+      "lat": 48.8420053473,
+      "lon": 2.23888732579,
+      "tags": {
+        "name": "Boulogne-Jean Jaurès",
+        "name:fr": "Boulogne-Jean Jaurès",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "99",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000100,
+      "lat": 48.8407450152,
+      "lon": 2.2285369815,
+      "tags": {
+        "name": "Boulogne-Pont de Saint-Cloud",
+        "name:fr": "Boulogne-Pont de Saint-Cloud",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "100",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000125,
+      "lat": 48.8466568513,
+      "lon": 2.35162325638,
+      "tags": {
+        "name": "Cardinal Lemoine",
+        "name:fr": "Cardinal Lemoine",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "125",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000149,
+      "lat": 48.8452047036,
+      "lon": 2.26644154308,
+      "tags": {
+        "name": "Chardon Lagache",
+        "name:fr": "Chardon Lagache",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "149",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000155,
+      "lat": 48.8465346367,
+      "lon": 2.28599922342,
+      "tags": {
+        "name": "Charles Michels",
+        "name:fr": "Charles Michels",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "155",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000192,
+      "lat": 48.8510502823,
+      "lon": 2.34427334542,
+      "tags": {
+        "name": "Cluny-la Sorbonne",
+        "name:fr": "Cluny-la Sorbonne",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "192",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000246,
+      "lat": 48.8469891061,
+      "lon": 2.31700523574,
+      "tags": {
+        "name": "Duroc",
+        "name:fr": "Duroc",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "246",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000251,
+      "lat": 48.8471500557,
+      "lon": 2.26913587273,
+      "tags": {
+        "name": "Église d'Auteuil",
+        "name:fr": "Église d'Auteuil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "251",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000311,
+      "lat": 48.842436797,
+      "lon": 2.365184812,
+      "tags": {
+        "name": "Gare d'Austerlitz",
+        "name:fr": "Gare d'Austerlitz",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "311",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000377,
+      "lat": 48.8461236669,
+      "lon": 2.27771173983,
+      "tags": {
+        "name": "Javel-André Citroën",
+        "name:fr": "Javel-André Citroën",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "377",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000383,
+      "lat": 48.8461511231,
+      "lon": 2.3549179837,
+      "tags": {
+        "name": "Jussieu",
+        "name:fr": "Jussieu",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "383",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000420,
+      "lat": 48.8493505536,
+      "lon": 2.29830140173,
+      "tags": {
+        "name": "La Motte Picquet-Grenelle",
+        "name:fr": "La Motte Picquet-Grenelle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "420",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000486,
+      "lat": 48.8530167679,
+      "lon": 2.33550205309,
+      "tags": {
+        "name": "Mabillon",
+        "name:fr": "Mabillon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "486",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000525,
+      "lat": 48.8501273238,
+      "lon": 2.34805429048,
+      "tags": {
+        "name": "Maubert-Mutualité",
+        "name:fr": "Maubert-Mutualité",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "525",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000542,
+      "lat": 48.8479348079,
+      "lon": 2.26421877705,
+      "tags": {
+        "name": "Michel Ange-Auteuil",
+        "name:fr": "Michel Ange-Auteuil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "542",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000544,
+      "lat": 48.8452475655,
+      "lon": 2.2616234924,
+      "tags": {
+        "name": "Michel Ange-Molitor",
+        "name:fr": "Michel Ange-Molitor",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "544",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000547,
+      "lat": 48.8471310082,
+      "lon": 2.27276375332,
+      "tags": {
+        "name": "Mirabeau",
+        "name:fr": "Mirabeau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "547",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000604,
+      "lat": 48.8521672611,
+      "lon": 2.33964633593,
+      "tags": {
+        "name": "Odéon",
+        "name:fr": "Odéon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "604",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000683,
+      "lat": 48.8479715406,
+      "lon": 2.25774468038,
+      "tags": {
+        "name": "Porte d'Auteuil",
+        "name:fr": "Porte d'Auteuil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "683",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000791,
+      "lat": 48.8470661332,
+      "lon": 2.30740224062,
+      "tags": {
+        "name": "Ségur",
+        "name:fr": "Ségur",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "791",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000798,
+      "lat": 48.8511923493,
+      "lon": 2.32648847397,
+      "tags": {
+        "name": "Sèvres-Babylone",
+        "name:fr": "Sèvres-Babylone",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "798",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000871,
+      "lat": 48.8488163725,
+      "lon": 2.32125786291,
+      "tags": {
+        "name": "Vaneau",
+        "name:fr": "Vaneau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "10",
+        "ref:FR:RATP": "871",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000027,
+      "lat": 48.8653227117,
+      "lon": 2.35672986917,
+      "tags": {
+        "name": "Arts et Métiers",
+        "name:fr": "Arts et Métiers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "27",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000060,
+      "lat": 48.8718487938,
+      "lon": 2.37659368274,
+      "tags": {
+        "name": "Belleville",
+        "name:fr": "Belleville",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "60",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000165,
+      "lat": 48.8575563594,
+      "lon": 2.34830889513,
+      "tags": {
+        "name": "Châtelet",
+        "name:fr": "Châtelet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "165",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000332,
+      "lat": 48.8699575127,
+      "lon": 2.37109483973,
+      "tags": {
+        "name": "Goncourt (Hôpital Saint-Louis)",
+        "name:fr": "Goncourt (Hôpital Saint-Louis)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "332",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000353,
+      "lat": 48.8574518326,
+      "lon": 2.35100846139,
+      "tags": {
+        "name": "Hôtel de Ville",
+        "name:fr": "Hôtel de Ville",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "353",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000379,
+      "lat": 48.875111817,
+      "lon": 2.38941503204,
+      "tags": {
+        "name": "Jourdain",
+        "name:fr": "Jourdain",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "379",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000494,
+      "lat": 48.879761254,
+      "lon": 2.41647964367,
+      "tags": {
+        "name": "Mairie des Lilas",
+        "name:fr": "Mairie des Lilas",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "494",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000650,
+      "lat": 48.8768063892,
+      "lon": 2.39305609332,
+      "tags": {
+        "name": "Place des Fêtes",
+        "name:fr": "Place des Fêtes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "650",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000697,
+      "lat": 48.8771748193,
+      "lon": 2.406480157,
+      "tags": {
+        "name": "Porte des Lilas",
+        "name:fr": "Porte des Lilas",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "697",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000716,
+      "lat": 48.8738818542,
+      "lon": 2.3853162151,
+      "tags": {
+        "name": "Pyrénées",
+        "name:fr": "Pyrénées",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "716",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000721,
+      "lat": 48.8612049903,
+      "lon": 2.35349574013,
+      "tags": {
+        "name": "Rambuteau",
+        "name:fr": "Rambuteau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "721",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000729,
+      "lat": 48.8675034238,
+      "lon": 2.36382614398,
+      "tags": {
+        "name": "République",
+        "name:fr": "République",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "729",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000848,
+      "lat": 48.8754744567,
+      "lon": 2.3988675939,
+      "tags": {
+        "name": "Télégraphe",
+        "name:fr": "Télégraphe",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "11",
+        "ref:FR:RATP": "848",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000002,
+      "lat": 48.884594208,
+      "lon": 2.33794977706,
+      "tags": {
+        "name": "Abbesses",
+        "name:fr": "Abbesses",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000030,
+      "lat": 48.8607869635,
+      "lon": 2.32099819195,
+      "tags": {
+        "name": "Assemblée Nationale",
+        "name:fr": "Assemblée Nationale",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "30",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000200,
+      "lat": 48.8661671149,
+      "lon": 2.32317568086,
+      "tags": {
+        "name": "Concorde",
+        "name:fr": "Concorde",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "200",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000206,
+      "lat": 48.8373074946,
+      "lon": 2.29663034323,
+      "tags": {
+        "name": "Convention",
+        "name:fr": "Convention",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "206",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000210,
+      "lat": 48.8270854489,
+      "lon": 2.27941168205,
+      "tags": {
+        "name": "Corentin Celton",
+        "name:fr": "Corentin Celton",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "210",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000280,
+      "lat": 48.8444701413,
+      "lon": 2.31785278304,
+      "tags": {
+        "name": "Falguière",
+        "name:fr": "Falguière",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "280",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000382,
+      "lat": 48.8924395905,
+      "lon": 2.34465700413,
+      "tags": {
+        "name": "Jules Joffrin",
+        "name:fr": "Jules Joffrin",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "382",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000419,
+      "lat": 48.8896740712,
+      "lon": 2.3387606492,
+      "tags": {
+        "name": "Lamarck-Caulaincourt",
+        "name:fr": "Lamarck-Caulaincourt",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "419",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000487,
+      "lat": 48.8700997328,
+      "lon": 2.32516410954,
+      "tags": {
+        "name": "Madeleine",
+        "name:fr": "Madeleine",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "487",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000495,
+      "lat": 48.8241050307,
+      "lon": 2.27304152514,
+      "tags": {
+        "name": "Mairie d'Issy",
+        "name:fr": "Mairie d'Issy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "495",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000510,
+      "lat": 48.8914650003,
+      "lon": 2.34981545185,
+      "tags": {
+        "name": "Marcadet-Poissonniers",
+        "name:fr": "Marcadet-Poissonniers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "510",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000519,
+      "lat": 48.8904854538,
+      "lon": 2.35999576641,
+      "tags": {
+        "name": "Marx Dormoy",
+        "name:fr": "Marx Dormoy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "519",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000562,
+      "lat": 48.8437354893,
+      "lon": 2.32435304116,
+      "tags": {
+        "name": "Montparnasse Bienvenüe",
+        "name:fr": "Montparnasse Bienvenüe",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "562",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000600,
+      "lat": 48.8760262116,
+      "lon": 2.33788648907,
+      "tags": {
+        "name": "Notre-Dame-de-Lorette",
+        "name:fr": "Notre-Dame-de-Lorette",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "600",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000601,
+      "lat": 48.8449426325,
+      "lon": 2.3287780269,
+      "tags": {
+        "name": "Notre-Dame-des-Champs",
+        "name:fr": "Notre-Dame-des-Champs",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "601",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000628,
+      "lat": 48.842871275,
+      "lon": 2.31244751307,
+      "tags": {
+        "name": "Pasteur",
+        "name:fr": "Pasteur",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "628",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000646,
+      "lat": 48.8825193856,
+      "lon": 2.33708168251,
+      "tags": {
+        "name": "Pigalle",
+        "name:fr": "Pigalle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "646",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000691,
+      "lat": 48.8972452881,
+      "lon": 2.35950786882,
+      "tags": {
+        "name": "Porte de la Chapelle",
+        "name:fr": "Porte de la Chapelle",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "691",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000701,
+      "lat": 48.8324490991,
+      "lon": 2.2880221411,
+      "tags": {
+        "name": "Porte de Versailles",
+        "name:fr": "Porte de Versailles",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "701",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000728,
+      "lat": 48.8484578485,
+      "lon": 2.32778212715,
+      "tags": {
+        "name": "Rennes",
+        "name:fr": "Rennes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "728",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000752,
+      "lat": 48.8555509402,
+      "lon": 2.32571242217,
+      "tags": {
+        "name": "Rue du Bac",
+        "name:fr": "Rue du Bac",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "752",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000766,
+      "lat": 48.8784252576,
+      "lon": 2.33759508282,
+      "tags": {
+        "name": "Saint-Georges",
+        "name:fr": "Saint-Georges",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "766",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000769,
+      "lat": 48.8754537705,
+      "lon": 2.32678520026,
+      "tags": {
+        "name": "Saint-Lazare",
+        "name:fr": "Saint-Lazare",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "769",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000799,
+      "lat": 48.8517620525,
+      "lon": 2.3268225689,
+      "tags": {
+        "name": "Sèvres-Babylone",
+        "name:fr": "Sèvres-Babylone",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "799",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000803,
+      "lat": 48.8585111299,
+      "lon": 2.32315485584,
+      "tags": {
+        "name": "Solférino",
+        "name:fr": "Solférino",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "803",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000861,
+      "lat": 48.8763179623,
+      "lon": 2.3325430273,
+      "tags": {
+        "name": "Trinité d'Estienne d'Orves",
+        "name:fr": "Trinité d'Estienne d'Orves",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "861",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000877,
+      "lat": 48.8395165854,
+      "lon": 2.30110751488,
+      "tags": {
+        "name": "Vaugirard (Adolphe Chériou)",
+        "name:fr": "Vaugirard (Adolphe Chériou)",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "877",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000919,
+      "lat": 48.8415055224,
+      "lon": 2.30794867934,
+      "tags": {
+        "name": "Volontaires",
+        "name:fr": "Volontaires",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "919",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9001073,
+      "lat": 48.906567146,
+      "lon": 2.3659203194,
+      "tags": {
+        "name": "Front Populaire",
+        "name:fr": "Front Populaire",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "12",
+        "ref:FR:RATP": "1073",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000113,
+      "lat": 48.8905871866,
+      "lon": 2.32017475579,
+      "tags": {
+        "name": "Brochant",
+        "name:fr": "Brochant",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "113",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000126,
+      "lat": 48.9195730741,
+      "lon": 2.34330593051,
+      "tags": {
+        "name": "Carrefour Pleyel",
+        "name:fr": "Carrefour Pleyel",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "126",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000145,
+      "lat": 48.8676021452,
+      "lon": 2.31389412912,
+      "tags": {
+        "name": "Champs-Élysées-Clémenceau",
+        "name:fr": "Champs-Élysées-Clémenceau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "145",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000171,
+      "lat": 48.8107464886,
+      "lon": 2.30167855546,
+      "tags": {
+        "name": "Châtillon-Montrouge",
+        "name:fr": "Châtillon-Montrouge",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "171",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000247,
+      "lat": 48.8470525545,
+      "lon": 2.31642435206,
+      "tags": {
+        "name": "Duroc",
+        "name:fr": "Duroc",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "247",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000297,
+      "lat": 48.9163823099,
+      "lon": 2.2946851117,
+      "tags": {
+        "name": "Gabriel Péri-Asnières-Gennevilliers",
+        "name:fr": "Gabriel Péri-Asnières-Gennevilliers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "297",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000299,
+      "lat": 48.8386316462,
+      "lon": 2.32249174982,
+      "tags": {
+        "name": "Gaïté",
+        "name:fr": "Gaïté",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "299",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000323,
+      "lat": 48.9060940502,
+      "lon": 2.33183083796,
+      "tags": {
+        "name": "Garibaldi",
+        "name:fr": "Garibaldi",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "323",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000342,
+      "lat": 48.8928288534,
+      "lon": 2.3274284585,
+      "tags": {
+        "name": "Guy Môquet",
+        "name:fr": "Guy Môquet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "342",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000362,
+      "lat": 48.8623647041,
+      "lon": 2.31390957779,
+      "tags": {
+        "name": "Invalides",
+        "name:fr": "Invalides",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "362",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000416,
+      "lat": 48.8871839469,
+      "lon": 2.32577967481,
+      "tags": {
+        "name": "La Fourche",
+        "name:fr": "La Fourche",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "416",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000467,
+      "lat": 48.8796347607,
+      "lon": 2.32702220089,
+      "tags": {
+        "name": "Liège",
+        "name:fr": "Liège",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "467",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000491,
+      "lat": 48.9033300946,
+      "lon": 2.30592414987,
+      "tags": {
+        "name": "Mairie de Clichy",
+        "name:fr": "Mairie de Clichy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "491",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000493,
+      "lat": 48.9119648979,
+      "lon": 2.33392489048,
+      "tags": {
+        "name": "Mairie de Saint-Ouen",
+        "name:fr": "Mairie de Saint-Ouen",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "493",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000504,
+      "lat": 48.8225837068,
+      "lon": 2.29846419197,
+      "tags": {
+        "name": "Malakoff-Plateau de Vanves",
+        "name:fr": "Malakoff-Plateau de Vanves",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "504",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000505,
+      "lat": 48.8153075312,
+      "lon": 2.29707779833,
+      "tags": {
+        "name": "Malakoff-Rue Étienne Dolet",
+        "name:fr": "Malakoff-Rue Étienne Dolet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "505",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000548,
+      "lat": 48.8737699887,
+      "lon": 2.31445603619,
+      "tags": {
+        "name": "Miromesnil",
+        "name:fr": "Miromesnil",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "548",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000563,
+      "lat": 48.8423274377,
+      "lon": 2.32098483563,
+      "tags": {
+        "name": "Montparnasse-Bienvenüe",
+        "name:fr": "Montparnasse-Bienvenüe",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "563",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000636,
+      "lat": 48.8339363927,
+      "lon": 2.31807828549,
+      "tags": {
+        "name": "Pernéty",
+        "name:fr": "Pernéty",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "636",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000648,
+      "lat": 48.883804528,
+      "lon": 2.32724341195,
+      "tags": {
+        "name": "Place de Clichy",
+        "name:fr": "Place de Clichy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "648",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000656,
+      "lat": 48.8318256496,
+      "lon": 2.31412232347,
+      "tags": {
+        "name": "Plaisance",
+        "name:fr": "Plaisance",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "656",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000689,
+      "lat": 48.8942522622,
+      "lon": 2.31377215877,
+      "tags": {
+        "name": "Porte de Clichy",
+        "name:fr": "Porte de Clichy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "689",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000696,
+      "lat": 48.8973747955,
+      "lon": 2.32894281278,
+      "tags": {
+        "name": "Porte de Saint-Ouen",
+        "name:fr": "Porte de Saint-Ouen",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "696",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000700,
+      "lat": 48.8277955435,
+      "lon": 2.30553466965,
+      "tags": {
+        "name": "Porte de Vanves",
+        "name:fr": "Porte de Vanves",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "700",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000761,
+      "lat": 48.9365268526,
+      "lon": 2.35939826103,
+      "tags": {
+        "name": "Basilique de Saint-Denis",
+        "name:fr": "Basilique de Saint-Denis",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "761",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000762,
+      "lat": 48.9299358897,
+      "lon": 2.35603579417,
+      "tags": {
+        "name": "Saint-Denis-Porte de Paris",
+        "name:fr": "Saint-Denis-Porte de Paris",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "762",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000763,
+      "lat": 48.9458456578,
+      "lon": 2.36454176349,
+      "tags": {
+        "name": "Saint-Denis-Université",
+        "name:fr": "Saint-Denis-Université",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "763",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000765,
+      "lat": 48.8514417056,
+      "lon": 2.3144081215,
+      "tags": {
+        "name": "Saint-François-Xavier",
+        "name:fr": "Saint-François-Xavier",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "765",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000770,
+      "lat": 48.8753549577,
+      "lon": 2.32481828506,
+      "tags": {
+        "name": "Saint-Lazare",
+        "name:fr": "Saint-Lazare",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "770",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000873,
+      "lat": 48.8568713792,
+      "lon": 2.31505663732,
+      "tags": {
+        "name": "Varenne",
+        "name:fr": "Varenne",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "873",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9001007,
+      "lat": 48.9231037797,
+      "lon": 2.28627957753,
+      "tags": {
+        "name": "Les Agnettes-Asnières-Gennevilliers",
+        "name:fr": "Les Agnettes-Asnières-Gennevilliers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "1007",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9001008,
+      "lat": 48.9307570033,
+      "lon": 2.28417444828,
+      "tags": {
+        "name": "Les Courtilles-Asnières-Gennevilliers",
+        "name:fr": "Les Courtilles-Asnières-Gennevilliers",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "13",
+        "ref:FR:RATP": "1008",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000066,
+      "lat": 48.8400013895,
+      "lon": 2.3795540112,
+      "tags": {
+        "name": "Bercy",
+        "name:fr": "Bercy",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "66",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000072,
+      "lat": 48.8299902817,
+      "lon": 2.37574814434,
+      "tags": {
+        "name": "Bibliothèque François Mitterrand",
+        "name:fr": "Bibliothèque François Mitterrand",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "72",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000167,
+      "lat": 48.8577088197,
+      "lon": 2.34794431111,
+      "tags": {
+        "name": "Châtelet",
+        "name:fr": "Châtelet",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "167",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000221,
+      "lat": 48.8333385593,
+      "lon": 2.38663240207,
+      "tags": {
+        "name": "Cour Saint-Émilion",
+        "name:fr": "Cour Saint-Émilion",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "221",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000317,
+      "lat": 48.843985582,
+      "lon": 2.37301421994,
+      "tags": {
+        "name": "Gare de Lyon",
+        "name:fr": "Gare de Lyon",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "317",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000488,
+      "lat": 48.8706670209,
+      "lon": 2.32575263529,
+      "tags": {
+        "name": "Madeleine",
+        "name:fr": "Madeleine",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "488",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000714,
+      "lat": 48.8659067396,
+      "lon": 2.33418954197,
+      "tags": {
+        "name": "Pyramides",
+        "name:fr": "Pyramides",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "714",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9001000,
+      "lat": 48.875764594,
+      "lon": 2.32425603265,
+      "tags": {
+        "name": "Saint-Lazare",
+        "name:fr": "Saint-Lazare",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "1000",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9001006,
+      "lat": 48.827270836,
+      "lon": 2.36803264776,
+      "tags": {
+        "name": "Olympiades",
+        "name:fr": "Olympiades",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "14",
+        "ref:FR:RATP": "1006",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000088,
+      "lat": 48.8808212614,
+      "lon": 2.37414715384,
+      "tags": {
+        "name": "Bolivar",
+        "name:fr": "Bolivar",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7B",
+        "ref:FR:RATP": "88",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000093,
+      "lat": 48.8794817719,
+      "lon": 2.38911580738,
+      "tags": {
+        "name": "Botzaris",
+        "name:fr": "Botzaris",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7B",
+        "ref:FR:RATP": "93",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000120,
+      "lat": 48.8785141131,
+      "lon": 2.38161451194,
+      "tags": {
+        "name": "Buttes-Chaumont",
+        "name:fr": "Buttes-Chaumont",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7B",
+        "ref:FR:RATP": "120",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000232,
+      "lat": 48.8819319987,
+      "lon": 2.39344545649,
+      "tags": {
+        "name": "Danube",
+        "name:fr": "Danube",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7B",
+        "ref:FR:RATP": "232",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000375,
+      "lat": 48.8824652456,
+      "lon": 2.37015796174,
+      "tags": {
+        "name": "Jaurès",
+        "name:fr": "Jaurès",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7B",
+        "ref:FR:RATP": "375",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000477,
+      "lat": 48.8814047322,
+      "lon": 2.36521878185,
+      "tags": {
+        "name": "Louis Blanc",
+        "name:fr": "Louis Blanc",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7B",
+        "ref:FR:RATP": "477",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000651,
+      "lat": 48.8769498481,
+      "lon": 2.39298396482,
+      "tags": {
+        "name": "Place des Fêtes",
+        "name:fr": "Place des Fêtes",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7B",
+        "ref:FR:RATP": "651",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000709,
+      "lat": 48.8799957944,
+      "lon": 2.39894666246,
+      "tags": {
+        "name": "Pré Saint-Gervais",
+        "name:fr": "Pré Saint-Gervais",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "7B",
+        "ref:FR:RATP": "709",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000302,
+      "lat": 48.8651634349,
+      "lon": 2.39874659344,
+      "tags": {
+        "name": "Gambetta",
+        "name:fr": "Gambetta",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3B",
+        "ref:FR:RATP": "302",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000630,
+      "lat": 48.8684401633,
+      "lon": 2.40156171274,
+      "tags": {
+        "name": "Pelleport",
+        "name:fr": "Pelleport",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3B",
+        "ref:FR:RATP": "630",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000698,
+      "lat": 48.8771105118,
+      "lon": 2.40672924554,
+      "tags": {
+        "name": "Porte des Lilas",
+        "name:fr": "Porte des Lilas",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3B",
+        "ref:FR:RATP": "698",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9000764,
+      "lat": 48.8721014421,
+      "lon": 2.40451494238,
+      "tags": {
+        "name": "Saint-Fargeau",
+        "name:fr": "Saint-Fargeau",
+        "railway": "station",
+        "station": "subway",
+        "network": "RATP",
+        "operator": "RATP",
+        "line": "3B",
+        "ref:FR:RATP": "764",
+        "wheelchair": "unknown"
+      }
+    }
+  ]
+}

@@ -1,0 +1,945 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API - RER station data",
+  "osm3s": {
+    "timestamp_osm_base": "2026-02-11T00:00:00Z",
+    "copyright": "Data compiled for Paris RER network, OSM-style format"
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 8000000,
+      "lat": 48.8919,
+      "lon": 2.2382,
+      "tags": {
+        "name": "La Défense",
+        "name:fr": "La Défense",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000001,
+      "lat": 48.8738,
+      "lon": 2.295,
+      "tags": {
+        "name": "Charles de Gaulle-Étoile",
+        "name:fr": "Charles de Gaulle-Étoile",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000002,
+      "lat": 48.8726,
+      "lon": 2.3295,
+      "tags": {
+        "name": "Auber",
+        "name:fr": "Auber",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000003,
+      "lat": 48.8616,
+      "lon": 2.3469,
+      "tags": {
+        "name": "Châtelet-Les Halles",
+        "name:fr": "Châtelet-Les Halles",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A;B;D",
+        "operator": "SNCF;RATP",
+        "line": "A;B;D",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000004,
+      "lat": 48.8443,
+      "lon": 2.3734,
+      "tags": {
+        "name": "Gare de Lyon",
+        "name:fr": "Gare de Lyon",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A;D",
+        "operator": "SNCF;RATP",
+        "line": "A;D",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000005,
+      "lat": 48.8485,
+      "lon": 2.3957,
+      "tags": {
+        "name": "Nation",
+        "name:fr": "Nation",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000006,
+      "lat": 48.8474,
+      "lon": 2.4328,
+      "tags": {
+        "name": "Vincennes",
+        "name:fr": "Vincennes",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000007,
+      "lat": 48.8556,
+      "lon": 2.4775,
+      "tags": {
+        "name": "Val de Fontenay",
+        "name:fr": "Val de Fontenay",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A;E",
+        "operator": "SNCF;RATP",
+        "line": "A;E",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000008,
+      "lat": 48.8375,
+      "lon": 2.4735,
+      "tags": {
+        "name": "Nogent-sur-Marne",
+        "name:fr": "Nogent-sur-Marne",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000009,
+      "lat": 48.8213,
+      "lon": 2.4625,
+      "tags": {
+        "name": "Joinville-le-Pont",
+        "name:fr": "Joinville-le-Pont",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000010,
+      "lat": 48.8523,
+      "lon": 2.4548,
+      "tags": {
+        "name": "Fontenay-sous-Bois",
+        "name:fr": "Fontenay-sous-Bois",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000011,
+      "lat": 48.8612,
+      "lon": 2.5093,
+      "tags": {
+        "name": "Neuilly-Plaisance",
+        "name:fr": "Neuilly-Plaisance",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "4",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000012,
+      "lat": 48.8788,
+      "lon": 2.1885,
+      "tags": {
+        "name": "Rueil-Malmaison",
+        "name:fr": "Rueil-Malmaison",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000013,
+      "lat": 48.8923,
+      "lon": 2.214,
+      "tags": {
+        "name": "Nanterre-Préfecture",
+        "name:fr": "Nanterre-Préfecture",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000014,
+      "lat": 48.8921,
+      "lon": 2.1932,
+      "tags": {
+        "name": "Nanterre-Ville",
+        "name:fr": "Nanterre-Ville",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;A",
+        "operator": "SNCF;RATP",
+        "line": "A",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000015,
+      "lat": 48.8809,
+      "lon": 2.3553,
+      "tags": {
+        "name": "Gare du Nord",
+        "name:fr": "Gare du Nord",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B;D;E",
+        "operator": "SNCF;RATP",
+        "line": "B;D;E",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000016,
+      "lat": 48.8534,
+      "lon": 2.3444,
+      "tags": {
+        "name": "Saint-Michel-Notre-Dame",
+        "name:fr": "Saint-Michel-Notre-Dame",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B;C",
+        "operator": "SNCF;RATP",
+        "line": "B;C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000017,
+      "lat": 48.8462,
+      "lon": 2.3401,
+      "tags": {
+        "name": "Luxembourg",
+        "name:fr": "Luxembourg",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000018,
+      "lat": 48.8397,
+      "lon": 2.3371,
+      "tags": {
+        "name": "Port-Royal",
+        "name:fr": "Port-Royal",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000019,
+      "lat": 48.8337,
+      "lon": 2.3326,
+      "tags": {
+        "name": "Denfert-Rochereau",
+        "name:fr": "Denfert-Rochereau",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000020,
+      "lat": 48.8207,
+      "lon": 2.3317,
+      "tags": {
+        "name": "Cité Universitaire",
+        "name:fr": "Cité Universitaire",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000021,
+      "lat": 48.8131,
+      "lon": 2.3417,
+      "tags": {
+        "name": "Gentilly",
+        "name:fr": "Gentilly",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000022,
+      "lat": 48.8038,
+      "lon": 2.3501,
+      "tags": {
+        "name": "Laplace",
+        "name:fr": "Laplace",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000023,
+      "lat": 48.7979,
+      "lon": 2.3268,
+      "tags": {
+        "name": "Arcueil-Cachan",
+        "name:fr": "Arcueil-Cachan",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000024,
+      "lat": 48.781,
+      "lon": 2.3126,
+      "tags": {
+        "name": "Bourg-la-Reine",
+        "name:fr": "Bourg-la-Reine",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000025,
+      "lat": 48.9173,
+      "lon": 2.3622,
+      "tags": {
+        "name": "La Plaine-Stade de France",
+        "name:fr": "La Plaine-Stade de France",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000026,
+      "lat": 48.9316,
+      "lon": 2.4253,
+      "tags": {
+        "name": "Le Bourget",
+        "name:fr": "Le Bourget",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000027,
+      "lat": 48.9297,
+      "lon": 2.4487,
+      "tags": {
+        "name": "Drancy",
+        "name:fr": "Drancy",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;B",
+        "operator": "SNCF;RATP",
+        "line": "B",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000028,
+      "lat": 48.8607,
+      "lon": 2.3257,
+      "tags": {
+        "name": "Musée d'Orsay",
+        "name:fr": "Musée d'Orsay",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000029,
+      "lat": 48.8626,
+      "lon": 2.314,
+      "tags": {
+        "name": "Invalides",
+        "name:fr": "Invalides",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000030,
+      "lat": 48.8622,
+      "lon": 2.3013,
+      "tags": {
+        "name": "Pont de l'Alma",
+        "name:fr": "Pont de l'Alma",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000031,
+      "lat": 48.8571,
+      "lon": 2.2893,
+      "tags": {
+        "name": "Champ de Mars-Tour Eiffel",
+        "name:fr": "Champ de Mars-Tour Eiffel",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000032,
+      "lat": 48.8543,
+      "lon": 2.2777,
+      "tags": {
+        "name": "Avenue du Président Kennedy",
+        "name:fr": "Avenue du Président Kennedy",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000033,
+      "lat": 48.8462,
+      "lon": 2.2705,
+      "tags": {
+        "name": "Javel",
+        "name:fr": "Javel",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000034,
+      "lat": 48.8399,
+      "lon": 2.2857,
+      "tags": {
+        "name": "Boulevard Victor",
+        "name:fr": "Boulevard Victor",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000035,
+      "lat": 48.8241,
+      "lon": 2.2606,
+      "tags": {
+        "name": "Issy",
+        "name:fr": "Issy",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000036,
+      "lat": 48.83,
+      "lon": 2.3765,
+      "tags": {
+        "name": "Bibliothèque François Mitterrand",
+        "name:fr": "Bibliothèque François Mitterrand",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000037,
+      "lat": 48.813,
+      "lon": 2.3867,
+      "tags": {
+        "name": "Ivry-sur-Seine",
+        "name:fr": "Ivry-sur-Seine",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000038,
+      "lat": 48.7898,
+      "lon": 2.3937,
+      "tags": {
+        "name": "Vitry-sur-Seine",
+        "name:fr": "Vitry-sur-Seine",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000039,
+      "lat": 48.8648,
+      "lon": 2.2712,
+      "tags": {
+        "name": "Avenue Henri Martin",
+        "name:fr": "Avenue Henri Martin",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000040,
+      "lat": 48.8583,
+      "lon": 2.275,
+      "tags": {
+        "name": "Boulainvilliers",
+        "name:fr": "Boulainvilliers",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000041,
+      "lat": 48.9048,
+      "lon": 2.3244,
+      "tags": {
+        "name": "Saint-Ouen",
+        "name:fr": "Saint-Ouen",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000042,
+      "lat": 48.8425,
+      "lon": 2.3657,
+      "tags": {
+        "name": "Austerlitz",
+        "name:fr": "Austerlitz",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;C",
+        "operator": "SNCF;RATP",
+        "line": "C",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000043,
+      "lat": 48.8443,
+      "lon": 2.3734,
+      "tags": {
+        "name": "Gare de Lyon (RER D)",
+        "name:fr": "Gare de Lyon (RER D)",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;D",
+        "operator": "SNCF;RATP",
+        "line": "D",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000044,
+      "lat": 48.9174,
+      "lon": 2.3503,
+      "tags": {
+        "name": "Stade de France-Saint-Denis",
+        "name:fr": "Stade de France-Saint-Denis",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;D",
+        "operator": "SNCF;RATP",
+        "line": "D",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000045,
+      "lat": 48.8055,
+      "lon": 2.4239,
+      "tags": {
+        "name": "Maisons-Alfort-Alfortville",
+        "name:fr": "Maisons-Alfort-Alfortville",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;D",
+        "operator": "SNCF;RATP",
+        "line": "D",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000046,
+      "lat": 48.796,
+      "lon": 2.4265,
+      "tags": {
+        "name": "Créteil Pompadour",
+        "name:fr": "Créteil Pompadour",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;D",
+        "operator": "SNCF;RATP",
+        "line": "D",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000047,
+      "lat": 48.7327,
+      "lon": 2.4482,
+      "tags": {
+        "name": "Villeneuve-Saint-Georges",
+        "name:fr": "Villeneuve-Saint-Georges",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;D",
+        "operator": "SNCF;RATP",
+        "line": "D",
+        "zone:FR:Île-de-France": "4",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000048,
+      "lat": 48.8756,
+      "lon": 2.3278,
+      "tags": {
+        "name": "Haussmann-Saint-Lazare",
+        "name:fr": "Haussmann-Saint-Lazare",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;E",
+        "operator": "SNCF;RATP",
+        "line": "E",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000049,
+      "lat": 48.881,
+      "lon": 2.3569,
+      "tags": {
+        "name": "Magenta",
+        "name:fr": "Magenta",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;E",
+        "operator": "SNCF;RATP",
+        "line": "E",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000050,
+      "lat": 48.8954,
+      "lon": 2.374,
+      "tags": {
+        "name": "Rosa Parks",
+        "name:fr": "Rosa Parks",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;E",
+        "operator": "SNCF;RATP",
+        "line": "E",
+        "zone:FR:Île-de-France": "1",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000051,
+      "lat": 48.8979,
+      "lon": 2.3957,
+      "tags": {
+        "name": "Pantin",
+        "name:fr": "Pantin",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;E",
+        "operator": "SNCF;RATP",
+        "line": "E",
+        "zone:FR:Île-de-France": "2",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000052,
+      "lat": 48.8896,
+      "lon": 2.4529,
+      "tags": {
+        "name": "Noisy-le-Sec",
+        "name:fr": "Noisy-le-Sec",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;E",
+        "operator": "SNCF;RATP",
+        "line": "E",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000053,
+      "lat": 48.8932,
+      "lon": 2.4795,
+      "tags": {
+        "name": "Bondy",
+        "name:fr": "Bondy",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;E",
+        "operator": "SNCF;RATP",
+        "line": "E",
+        "zone:FR:Île-de-France": "3",
+        "wheelchair": "unknown"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8000054,
+      "lat": 48.8787,
+      "lon": 2.5829,
+      "tags": {
+        "name": "Chelles-Gournay",
+        "name:fr": "Chelles-Gournay",
+        "railway": "station",
+        "station": "suburban",
+        "network": "RER;E",
+        "operator": "SNCF;RATP",
+        "line": "E",
+        "zone:FR:Île-de-France": "4",
+        "wheelchair": "unknown"
+      }
+    }
+  ]
+}

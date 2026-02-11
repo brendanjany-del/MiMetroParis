@@ -1,0 +1,740 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API - RER route relations",
+  "osm3s": {
+    "timestamp_osm_base": "2026-02-11T00:00:00Z",
+    "copyright": "Route relation data for Paris RER, OSM-style format"
+  },
+  "elements": [
+    {
+      "type": "relation",
+      "id": 6000065,
+      "tags": {
+        "type": "route",
+        "route": "train",
+        "network": "RER",
+        "operator": "RATP;SNCF",
+        "ref": "A",
+        "name": "RER A",
+        "colour": "#FF1400",
+        "from": "Saint-Germain-en-Laye / Cergy / Poissy",
+        "to": "Boissy-Saint-Léger / Marne-la-Vallée",
+        "public_transport:version": "2"
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 8000000,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000001,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000002,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000003,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000004,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000005,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000006,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000007,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000008,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000009,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000010,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000011,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000012,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000013,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000014,
+          "role": "stop"
+        }
+      ]
+    },
+    {
+      "type": "relation",
+      "id": 6000066,
+      "tags": {
+        "type": "route",
+        "route": "train",
+        "network": "RER",
+        "operator": "RATP;SNCF",
+        "ref": "B",
+        "name": "RER B",
+        "colour": "#4C90D1",
+        "from": "Aéroport CDG / Mitry-Claye",
+        "to": "Robinson / Saint-Rémy-lès-Chevreuse",
+        "public_transport:version": "2"
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 8000003,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000015,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000016,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000017,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000018,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000019,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000020,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000021,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000022,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000023,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000024,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000025,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000026,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000027,
+          "role": "stop"
+        }
+      ]
+    },
+    {
+      "type": "relation",
+      "id": 6000067,
+      "tags": {
+        "type": "route",
+        "route": "train",
+        "network": "RER;Transilien",
+        "operator": "SNCF",
+        "ref": "C",
+        "name": "RER C",
+        "colour": "#FFBE00",
+        "from": "Pontoise / Montigny-Beauchamp",
+        "to": "Versailles / Saint-Martin-d'Étampes / Dourdan",
+        "public_transport:version": "2"
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 8000016,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000028,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000029,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000030,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000031,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000032,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000033,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000034,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000035,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000036,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000037,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000038,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000039,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000040,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000041,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000042,
+          "role": "stop"
+        }
+      ]
+    },
+    {
+      "type": "relation",
+      "id": 6000068,
+      "tags": {
+        "type": "route",
+        "route": "train",
+        "network": "RER;Transilien",
+        "operator": "SNCF",
+        "ref": "D",
+        "name": "RER D",
+        "colour": "#00814F",
+        "from": "Orry-la-Ville-Coye / Creil",
+        "to": "Melun / Malesherbes / Corbeil-Essonnes",
+        "public_transport:version": "2"
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 8000003,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000004,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000015,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000043,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000044,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000045,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000046,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000047,
+          "role": "stop"
+        }
+      ]
+    },
+    {
+      "type": "relation",
+      "id": 6000069,
+      "tags": {
+        "type": "route",
+        "route": "train",
+        "network": "RER;Transilien",
+        "operator": "SNCF",
+        "ref": "E",
+        "name": "RER E",
+        "colour": "#BD559C",
+        "from": "Haussmann-Saint-Lazare",
+        "to": "Chelles-Gournay / Tournan",
+        "public_transport:version": "2"
+      },
+      "members": [
+        {
+          "type": "node",
+          "ref": 8000007,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000015,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000048,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000049,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000050,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000051,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000052,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000053,
+          "role": "stop"
+        },
+        {
+          "type": "node",
+          "ref": 8000054,
+          "role": "stop"
+        }
+      ]
+    },
+    {
+      "type": "node",
+      "id": 8000000,
+      "lat": 48.8919,
+      "lon": 2.2382
+    },
+    {
+      "type": "node",
+      "id": 8000001,
+      "lat": 48.8738,
+      "lon": 2.295
+    },
+    {
+      "type": "node",
+      "id": 8000002,
+      "lat": 48.8726,
+      "lon": 2.3295
+    },
+    {
+      "type": "node",
+      "id": 8000003,
+      "lat": 48.8616,
+      "lon": 2.3469
+    },
+    {
+      "type": "node",
+      "id": 8000004,
+      "lat": 48.8443,
+      "lon": 2.3734
+    },
+    {
+      "type": "node",
+      "id": 8000005,
+      "lat": 48.8485,
+      "lon": 2.3957
+    },
+    {
+      "type": "node",
+      "id": 8000006,
+      "lat": 48.8474,
+      "lon": 2.4328
+    },
+    {
+      "type": "node",
+      "id": 8000007,
+      "lat": 48.8556,
+      "lon": 2.4775
+    },
+    {
+      "type": "node",
+      "id": 8000008,
+      "lat": 48.8375,
+      "lon": 2.4735
+    },
+    {
+      "type": "node",
+      "id": 8000009,
+      "lat": 48.8213,
+      "lon": 2.4625
+    },
+    {
+      "type": "node",
+      "id": 8000010,
+      "lat": 48.8523,
+      "lon": 2.4548
+    },
+    {
+      "type": "node",
+      "id": 8000011,
+      "lat": 48.8612,
+      "lon": 2.5093
+    },
+    {
+      "type": "node",
+      "id": 8000012,
+      "lat": 48.8788,
+      "lon": 2.1885
+    },
+    {
+      "type": "node",
+      "id": 8000013,
+      "lat": 48.8923,
+      "lon": 2.214
+    },
+    {
+      "type": "node",
+      "id": 8000014,
+      "lat": 48.8921,
+      "lon": 2.1932
+    },
+    {
+      "type": "node",
+      "id": 8000015,
+      "lat": 48.8809,
+      "lon": 2.3553
+    },
+    {
+      "type": "node",
+      "id": 8000016,
+      "lat": 48.8534,
+      "lon": 2.3444
+    },
+    {
+      "type": "node",
+      "id": 8000017,
+      "lat": 48.8462,
+      "lon": 2.3401
+    },
+    {
+      "type": "node",
+      "id": 8000018,
+      "lat": 48.8397,
+      "lon": 2.3371
+    },
+    {
+      "type": "node",
+      "id": 8000019,
+      "lat": 48.8337,
+      "lon": 2.3326
+    },
+    {
+      "type": "node",
+      "id": 8000020,
+      "lat": 48.8207,
+      "lon": 2.3317
+    },
+    {
+      "type": "node",
+      "id": 8000021,
+      "lat": 48.8131,
+      "lon": 2.3417
+    },
+    {
+      "type": "node",
+      "id": 8000022,
+      "lat": 48.8038,
+      "lon": 2.3501
+    },
+    {
+      "type": "node",
+      "id": 8000023,
+      "lat": 48.7979,
+      "lon": 2.3268
+    },
+    {
+      "type": "node",
+      "id": 8000024,
+      "lat": 48.781,
+      "lon": 2.3126
+    },
+    {
+      "type": "node",
+      "id": 8000025,
+      "lat": 48.9173,
+      "lon": 2.3622
+    },
+    {
+      "type": "node",
+      "id": 8000026,
+      "lat": 48.9316,
+      "lon": 2.4253
+    },
+    {
+      "type": "node",
+      "id": 8000027,
+      "lat": 48.9297,
+      "lon": 2.4487
+    },
+    {
+      "type": "node",
+      "id": 8000028,
+      "lat": 48.8607,
+      "lon": 2.3257
+    },
+    {
+      "type": "node",
+      "id": 8000029,
+      "lat": 48.8626,
+      "lon": 2.314
+    },
+    {
+      "type": "node",
+      "id": 8000030,
+      "lat": 48.8622,
+      "lon": 2.3013
+    },
+    {
+      "type": "node",
+      "id": 8000031,
+      "lat": 48.8571,
+      "lon": 2.2893
+    },
+    {
+      "type": "node",
+      "id": 8000032,
+      "lat": 48.8543,
+      "lon": 2.2777
+    },
+    {
+      "type": "node",
+      "id": 8000033,
+      "lat": 48.8462,
+      "lon": 2.2705
+    },
+    {
+      "type": "node",
+      "id": 8000034,
+      "lat": 48.8399,
+      "lon": 2.2857
+    },
+    {
+      "type": "node",
+      "id": 8000035,
+      "lat": 48.8241,
+      "lon": 2.2606
+    },
+    {
+      "type": "node",
+      "id": 8000036,
+      "lat": 48.83,
+      "lon": 2.3765
+    },
+    {
+      "type": "node",
+      "id": 8000037,
+      "lat": 48.813,
+      "lon": 2.3867
+    },
+    {
+      "type": "node",
+      "id": 8000038,
+      "lat": 48.7898,
+      "lon": 2.3937
+    },
+    {
+      "type": "node",
+      "id": 8000039,
+      "lat": 48.8648,
+      "lon": 2.2712
+    },
+    {
+      "type": "node",
+      "id": 8000040,
+      "lat": 48.8583,
+      "lon": 2.275
+    },
+    {
+      "type": "node",
+      "id": 8000041,
+      "lat": 48.9048,
+      "lon": 2.3244
+    },
+    {
+      "type": "node",
+      "id": 8000042,
+      "lat": 48.8425,
+      "lon": 2.3657
+    },
+    {
+      "type": "node",
+      "id": 8000043,
+      "lat": 48.8443,
+      "lon": 2.3734
+    },
+    {
+      "type": "node",
+      "id": 8000044,
+      "lat": 48.9174,
+      "lon": 2.3503
+    },
+    {
+      "type": "node",
+      "id": 8000045,
+      "lat": 48.8055,
+      "lon": 2.4239
+    },
+    {
+      "type": "node",
+      "id": 8000046,
+      "lat": 48.796,
+      "lon": 2.4265
+    },
+    {
+      "type": "node",
+      "id": 8000047,
+      "lat": 48.7327,
+      "lon": 2.4482
+    },
+    {
+      "type": "node",
+      "id": 8000048,
+      "lat": 48.8756,
+      "lon": 2.3278
+    },
+    {
+      "type": "node",
+      "id": 8000049,
+      "lat": 48.881,
+      "lon": 2.3569
+    },
+    {
+      "type": "node",
+      "id": 8000050,
+      "lat": 48.8954,
+      "lon": 2.374
+    },
+    {
+      "type": "node",
+      "id": 8000051,
+      "lat": 48.8979,
+      "lon": 2.3957
+    },
+    {
+      "type": "node",
+      "id": 8000052,
+      "lat": 48.8896,
+      "lon": 2.4529
+    },
+    {
+      "type": "node",
+      "id": 8000053,
+      "lat": 48.8932,
+      "lon": 2.4795
+    },
+    {
+      "type": "node",
+      "id": 8000054,
+      "lat": 48.8787,
+      "lon": 2.5829
+    }
+  ]
+}
